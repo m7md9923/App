@@ -1,8 +1,8 @@
 ﻿namespace Project;
 
-public class Q2
-{
-    public static void Q()
+class Demo
+{ 
+    static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
     }
